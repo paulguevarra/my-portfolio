@@ -1,29 +1,48 @@
 body {
-  background-color: #cccccc;
+  background-color: black;
 }
-img.alpha {
-  height: auto;
-  width: 200px;
+img.alpha1 {
+  height: 400px;
+  width: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: auto;
-  margin-bottom: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 20px;
 }
-img.beta {
+img.beta1 {
   float: right;
-  height: 400px;
+  height: 400px;s
   width: auto;
   border-radius: 50px;
   margin: 10px;
 }
-div.alpha1 {
+div.alpha {
   text-align: justify;
+  margin: 10px;
+  background-color: grey;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 h2.alpha1 {
   text-align: center;
 }
 h1.hp-name {
   text-align: right;
-  font-size: 35pt;
+  font-size: 50pt;
+  font-family: monospace;
+  color: white;
+}
+p.alpha1 {
+  text-align: center;
+  font-size: 16pt;
+}
+div.sidebar {
+  position: fixed;
+  background-color: black;
+
+}
+div.top {
+  background-color: black;
 }
