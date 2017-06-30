@@ -25,8 +25,9 @@ div.alpha {
   padding-left: 50px;
   padding-right: 50px;
 }
-h2.alpha1 {
+h2 {
   text-align: center;
+  text-decoration: underline;
 }
 h1.hp-name {
   text-align: right;
