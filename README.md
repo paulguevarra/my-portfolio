@@ -11,7 +11,7 @@ _This is a website I created to showcase my self and my abilities in computer pr
 ## Setup/Installation Requirements
 
 * _Open web browser_
-* _Enter website address "https://paulguevarra.github.io/my-portfolio/"_
+* _Enter website address "https://github.com/paulguevarra/my-portfolio"_
 * _Browse through content_
 
 
